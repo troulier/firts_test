@@ -25,7 +25,7 @@ public class Main {
             System.out.println(trois);
         }
 
-        System.out.prinln("testpullgithub");
+        System.out.println("testpullgithub");
     }
 }
 
